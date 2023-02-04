@@ -20,22 +20,20 @@ Thanks to Jim Bender, the schemedoc team, and all of the original paper authors!
 
 ## Table of Contents
 
-  * [The Original 'Lambda Papers' by Guy Steele and Gerald Sussman](page01)
-  * [Scheme, Language Features, and Semantics](page02)
-  * [Macros](page03)
-  * [Object-Oriented Programming](page04)
-  * [Modules and Component-Oriented Programming](page05)
-  * [Continuations and Continuation Passing Style](page06)
-  * [XML and Web Programming](pagexml)
-  * [Applications of Scheme](page07)
-  * [Compiler Technology/Implementation Techniques and Optimization](page08)
-  * [Distributed, Parallel, and Concurrent Programming](page09)
-  * [Partial Evaluation](page10)
-  * [Reflection](page11)
-
-<br>
-
+  * [The Original 'Lambda Papers' by Guy Steele and Gerald Sussman](lambda-papers)
   * [Reports on the Scheme Language](standards)
+  * [Scheme, Language Features, and Semantics](semantics)
+  * [Macros](macros)
+  * [Object-Oriented Programming](objects)
+  * [Modules and Component-Oriented Programming](modules-components)
+  * [Continuations and Continuation Passing Style](continuations)
+  * [XML and Web Programming](xml-web)
+  * [Applications of Scheme](applications)
+  * [Compiler Technology/Implementation Techniques and Optimization](implementation)
+  * [Distributed, Parallel, and Concurrent Programming](concurrency)
+  * [Partial Evaluation](partial-evaluation)
+  * [Reflection](reflection)
+
 
 ## Workshops on Scheme and Functional Programming
 
