@@ -6,11 +6,11 @@ Jim Bender maintained the library.readscheme.org archive of Scheme-related paper
 which has since [gone offline](https://stackoverflow.com/questions/54881563/is-library-readscheme-org-permanently-down-where-was-it-moved)
 (but see the [wayback](https://web.archive.org/web/20180721161229/http://library.readscheme.org/index.html) archive).
 
-![screenshot](.media/readscheme.png)
+[![screenshot](.media/readscheme.png)](https://web.archive.org/web/20180721161229/http://library.readscheme.org/index.html)
 
-The https://github.com/schemedoc team then created an equivalent repo, initially in markdown format,
-with an effort to migrate the markdown format into Scheme source files.
-However, that repo did not include copies of any of the linked papers.
+The [schemedoc team](https://github.com/schemedoc) then created an equivalent repo,
+initially in markdown format, with an effort to migrate the markdown format into Scheme source files.
+However, that repo did not include local copies of any of the linked papers.
 
 This fork restores the markdown files, includes local copies of the papers,
 and reorganizes the files for easier browsing on github.com.
