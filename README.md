@@ -1,8 +1,12 @@
-# library.readscheme.org mirror, with schemedoc additions (was "Bibliography of Scheme-related Research")
+# Archive of library.readscheme.org, with team schemedoc additions
+
+_[forked](https://github.com/schemedoc/bibliography) from "Bibliography of Scheme-related Research"_
 
 Jim Bender maintained the library.readscheme.org archive of Scheme-related papers,
 which has since [gone offline](https://stackoverflow.com/questions/54881563/is-library-readscheme-org-permanently-down-where-was-it-moved)
 (but see the [wayback](https://web.archive.org/web/20180721161229/http://library.readscheme.org/index.html) archive).
+
+![screenshot](.media/readscheme.png)
 
 The https://github.com/schemedoc team then created an equivalent repo, initially in markdown format,
 with an effort to migrate the markdown format into Scheme source files.
@@ -28,6 +32,8 @@ Thanks to Jim Bender, the schemedoc team, and all of the original paper authors!
   * [Distributed, Parallel, and Concurrent Programming](page09)
   * [Partial Evaluation](page10)
   * [Reflection](page11)
+
+<br>
 
   * [Reports on the Scheme Language](standards)
 
