@@ -1,6 +1,6 @@
 ## Scheme Reports
 
-- Gerald Jay Sussman and Guy Lewis Steele, Jr. "[Scheme: An Interpreter for Extended Lambda Calculus](AIM-349.pdf)". MIT AI Lab. AI Lab Memo AIM-349. December 1975.
+- Gerald Jay Sussman and Guy Lewis Steele, Jr. "[Scheme: An Interpreter for Extended Lambda Calculus](../lambda-papers/AIM-349.pdf)". MIT AI Lab. AI Lab Memo AIM-349. December 1975.
   - [pdf (journal reprint)](HOSC-11-4-pp405-439.pdf)
   - [Sussman and Steele introduction to the journal reprint](HOSC-11-4-pp399-404.pdf)
 - Gerald Jay Sussman and Guy Lewis Steele, Jr. "[The Revised Report on Scheme, a dialect of Lisp](AIM-452.pdf)". MIT AI Lab. AI Lab Memo 
